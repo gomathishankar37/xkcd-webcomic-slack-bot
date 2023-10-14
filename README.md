@@ -13,7 +13,7 @@ This project is designed to fetch and display random XKCD comics on a Slack chan
 
 ## Usage
 1. Set up a Slack bot and obtain a bot token.
-2. Update the `SLACK_BOT_TOKEN` variable in `main.py` with your bot token.
+2. Update the `SLACK_BOT_TOKEN` variable in `run-bot.py` with your bot token.
 3. Run the `run-bot.py` script using the following command:
    ```
    python run-bot.py
